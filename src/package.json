@@ -1,8 +1,12 @@
 {
-  "name": "ng2-file-upload",
-  "version": "1.3.0",
+  "name": "@aginev/ng2-file-upload",
+  "version": "1.3.7",
   "peerDependencies": {
     "@angular/common": "*",
     "@angular/core": "*"
+  },
+  "scripts": {
+    "prepublish": "npm version patch",
+    "postpublish": "cd ../../src && npm version patch"
   }
 }

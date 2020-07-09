@@ -3,5 +3,6 @@
   "dest": "../dist/ng2-file-upload",
   "lib": {
     "entryFile": "index.ts"
-  }
+  },
+  "keepLifecycleScripts": true
 }
