@@ -147,7 +147,10 @@ export class FileType {
       'pptx': 'ppt',
       'pps': 'ppt',
       'ppsx': 'ppt',
-      'odp': 'ppt'
+      'odp': 'ppt',
+
+      'csv': 'xls',
+      'heic': 'image'
     };
 
     let chunks = inputFilename.split('.');
