@@ -9,7 +9,7 @@ Easy to use Angular2 directives for files upload ([demo](http://valor-software.g
 
 1. Navigate to `src` directory `cd src` and run `npm version patch`
 2. Navigate to the project root `cd ..` and run `npm run build`
-3. Go again to `src` with `cd src` and run `npm publish`
+3. Go into `cd dist/ng2-file-upload` and run `npm publish`
 
 ## Quick start
 
